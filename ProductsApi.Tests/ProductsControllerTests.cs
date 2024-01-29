@@ -2,11 +2,6 @@
 using Microsoft.Extensions.Logging;
 using ProductsApi.Controllers;
 using ProductsApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProductsApi.Tests
 {
