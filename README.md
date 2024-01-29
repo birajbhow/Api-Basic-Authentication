@@ -3,7 +3,8 @@
 ## Technologies & Tools
 
 - Visual Studio 2022
-- C#
+- C# 10
+- .Net 6
 - NUnit
   
 ## How to run & test the api?
